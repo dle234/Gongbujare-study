@@ -26,3 +26,5 @@ arr.reduce(function (acc, item, index, array) {}, init);
 // array - 배열자신
 // init - 누적값의 초깃값
 ```
+
+\
